@@ -1,2 +1,2 @@
 # TFE_Functional_diversity_frogs
-Code description of my project on the functional diversity of Bornean frogs 
+R code used to analyse the functional diversity and composition of Bornean frogs based .  
